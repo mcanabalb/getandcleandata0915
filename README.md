@@ -12,7 +12,7 @@ The primary script `run_analysis.R`, is intended to perform the following:
 
 The `CodeBook.md` explains this process in more detail.
 
-## Run from command line
+## To run
 
 1. Clone this repo
 
